@@ -3,6 +3,8 @@
 
 let str = "abcdefghiklmnopqrstuvxyz1234567890";
 
+console.log(str.slice(0, 5)) //  abcde
+
 console.log()  //  string
 
 console.log()   //  klmno
