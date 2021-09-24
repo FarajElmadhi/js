@@ -1,19 +1,19 @@
 
 // -------------| 1 |-----
 
-let str = "abcdefghiklmnopqrstuvxyz1234567890"
+let str = "abcdefghiklmnopqrstuvxyz1234567890";
 
-console.log();  //  string
+console.log()  //  string
 
 console.log()   //  klmno
 
-console.log();  //  34 
+console.log()  //  34 
 
-console.log();  //   7
+console.log()  //   7
 
-console.log();  //   ABCDEFGHIKLMNOPQRSTUVXYZ1234567890
+console.log()  //   ABCDEFGHIKLMNOPQRSTUVXYZ1234567890
 
-console.log();  // 0987654321zyxvutsrqponmlkihgfedcba
+console.log()  // 0987654321zyxvutsrqponmlkihgfedcba
 
 
 
@@ -29,7 +29,7 @@ let solution = ["Ctrl", "+", "Z"];
 // 
 
 
-console.log(); //  Probleme: compiler raised 469 error and warning. Solution: Ctrl+Z
+console.log() //  Probleme: compiler raised 469 error and warning. Solution: Ctrl+Z
 
 
 
